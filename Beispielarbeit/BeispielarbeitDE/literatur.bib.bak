@@ -1,0 +1,106 @@
+% This file was created with JabRef 2.8.1.
+% Encoding: ISO8859_15
+
+@ARTICLE{article,
+  author = {articleAuthor},
+  title = {articleTitle},
+  journal = {journalName},
+  year = {2012},
+  date-added = {2012-09-11 10:59:15 +0000},
+  date-modified = {2012-09-11 10:59:34 +0000},
+  url = {www.tu-dresden.de}
+}
+
+@BOOK{book,
+  title = {bookTitle},
+  publisher = {bookPublisher},
+  year = {2012},
+  author = {bookAuthor},
+  date-added = {2012-09-11 10:40:25 +0000},
+  date-modified = {2012-09-11 10:59:00 +0000},
+  url = {www.tu-dresde.com}
+}
+
+@BOOKLET{booklet,
+  title = {booklet-title},
+  author = {booklet-author},
+  year = {2012},
+  date-added = {2012-09-11 11:02:22 +0000},
+  date-modified = {2012-09-11 11:42:40 +0000},
+  publisher = {publisher},
+  url = {www.tu-dresden.de}
+}
+
+@CONFERENCE{conference,
+  author = {conferenceAuthor},
+  title = {conferenceTitle},
+  booktitle = {bookTitle},
+  year = {2012},
+  date-added = {2012-09-11 11:02:06 +0000},
+  date-modified = {2012-09-11 11:02:18 +0000},
+  url = {www.tu-dresden.de}
+}
+
+@INBOOK{inbook,
+  chapter = {1},
+  title = {inbookTitle},
+  publisher = {inbookPublisher},
+  year = {2012},
+  author = {inbookAuthor},
+  date-added = {2012-09-11 11:43:50 +0000},
+  date-modified = {2012-09-11 11:59:23 +0000},
+  url = {www.tu-dresden.de}
+}
+
+@INCOLLECTION{incollection,
+  author = {incollectionAuthor},
+  title = {incollectionTitle},
+  booktitle = {bookTitle},
+  publisher = {incollectionPublisher},
+  year = {2012},
+  pages = {Seiten 1 - 100},
+  date-added = {2012-09-11 11:02:38 +0000},
+  date-modified = {2012-09-11 11:59:13 +0000},
+  url = {www.tu-dresden.de}
+}
+
+@INPROCEEDINGS{inproceedings,
+  author = {inproceedingsAuthor},
+  title = {inproceedingsTitle},
+  booktitle = {bookTitle},
+  year = {2012},
+  date-added = {2012-09-11 11:03:04 +0000},
+  date-modified = {2012-09-11 11:03:23 +0000},
+  url = {www.tu-dresden.de}
+}
+
+@BOOK{mittelbach05,
+  title = {Der LaTeX Begleiter},
+  year = {2005},
+  author = {Frank Mittelbach und M. Gossens und J. Braams},
+  edition = {2. überarbeitete und erw. Auflage},
+  owner = {Malte},
+  timestamp = {2012.10.17}
+}
+
+@MANUAL{manual,
+  title = {manualTitle},
+  author = {manualAuthor},
+  address = {Address(!)},
+  year = {2012},
+  date-added = {2012-09-11 11:03:27 +0000},
+  date-modified = {2012-09-11 11:58:59 +0000},
+  url = {www.tu-dresden.de}
+}
+
+@BOOKLET{url(booklet),
+  title = {urlTitle(Booklet)},
+  author = {urlAuthor},
+  lastchecked = {12.09.2012},
+  year = {2012},
+  date-added = {2012-09-11 11:03:46 +0000},
+  date-modified = {2012-09-11 11:56:54 +0000},
+  url = {www.tu-dresden.de},
+  urldate = {urldate}
+}
+

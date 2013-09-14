@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {0}Einleitung}{2}{section.0}
+\contentsline {section}{\numberline {1}Zitierbefehle}{3}{section.1}
+\contentsline {section}{\numberline {2}Entry Types und Felder}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Felder}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Entry-Types}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Beispieleintr\"age und Pflichfelder}{7}{subsection.2.3}
+\contentsline {section}{\numberline {3}Bib\kern -.125emT\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m \ Zeichenkodierung und allg. Hinweise}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Zeichensatz}{9}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Zeichenkodierung}{9}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Sonderzeichen}{9}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Allgemeine Hinweise}{10}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Mehrere Autoren zitieren}{10}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Erfassen von Medien und MISC (miscellaneous)}{10}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Auflagevermerke}{10}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}wissenschaftl. Arbeiten zitieren}{10}{subsubsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.5}Ver\"offentlichungen einer Institution}{11}{subsubsection.3.2.5}
+\contentsline {subsubsection}{\numberline {3.2.6}Interpunktion -- direktes/indirektes Zitieren}{12}{subsubsection.3.2.6}
+\wisecftsetpnumwidth {4em} \wisecftsetrmarg {5em}
+\contentsline {section}{Tabellenverzeichnis}{I}{section*.2}
+\contentsline {section}{Abk\"urzungsverzeichnis}{II}{section*.3}
+\contentsline {section}{Literaturverzeichnis}{III}{section*.4}
+\wisecftsetpnumwidth {1.55em} \wisecftsetrmarg {2.55em}

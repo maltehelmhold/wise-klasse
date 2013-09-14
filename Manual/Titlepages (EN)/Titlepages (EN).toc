@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}General}{1}{section.1}
+\wisecftsetpnumwidth {4em} \wisecftsetrmarg {5em}
+\contentsline {section}{Anh\"ange}{I}{section.1}
+\contentsline {section}{\numberline {A}Seminartitlepage}{I}{appendix.A}
+\contentsline {section}{\numberline {B}Doubleseminartitlepage}{I}{appendix.B}
+\contentsline {section}{\numberline {C}Projecttitlepage}{II}{appendix.C}
+\contentsline {section}{\numberline {D}Bachelortitlepage}{I}{appendix.D}
+\contentsline {section}{\numberline {E}Mastertitlepage}{I}{appendix.E}

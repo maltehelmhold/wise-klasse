@@ -1,0 +1,107 @@
+% Example file for using the english Wise-Template. Please delete my comments in the end for having a better round-up;)
+%For quick compile please use pdflatex,showpdf for updating your citations use pdflatex,bibtex,pdflatex,showpdf. 
+%Please compile twice in pdflatex-bibtex-pdflatex mode for successful initially used citation-commands. 
+%For further information about aux and bbl interaction in compilation see the latex companion by Frank Mittelbach (bibtex and latex interaction)
+%
+%hyperref for Link-TOC in PDF
+%
+% mp for \marginpar{margin notes} 
+
+
+%For purpose of printing delete hyperref-option. 
+
+\documentclass[xlevel, hyperref, nat, mp, en]{wise}
+
+%Dokument beginnen
+\begin{document}
+
+%Title Page: 
+%\seminartitlepage{title}
+%{name of student}
+%{1234567}
+%{title and name of advisor\\ } {title and name of advisor }
+\doubleseminartitlepage
+{Englischer Titel}
+{Deutscher Titel}
+{Name of Student 1 (Matr. Nr.) \\ Name of Student 2 (Matr. Nr.) \\ Name of Student 3 (Matr. Nr)}
+{Title and name of supervisor 1 \\ Title and name of supervisor 2}
+%preface
+% Appendix (don't rearrange environments like \begin{preface})! 
+\begin{preface}
+  %Up next a short abstract
+  \abstract
+  
+
+  %Inhaltsverzeichnis
+  \tableofcontents
+\end{preface}
+
+%The main part is initiated by the introduction
+\introduction
+
+This is the introduction.
+
+%Chapters may be splitted in several parts by use of \include{filename} 
+
+\section{Chapter}
+
+This is the first chapter. It is initiated by a short introduction sentence and concluded by a short summary. 
+
+\include{elsewhere}
+
+
+\label{sec:chapter}
+
+
+
+\subsection{Section}
+\label{sec:section}
+
+
+
+
+\subsubsection{Subsection}
+\label{sec:subsection}
+
+
+\paragraph{Subsubsection}
+\label{sec:subsubsection}
+
+\subparagraph{subparagraph}
+\label{sec:subparagraph}
+
+
+
+% Appendix (don't rearrange environments like \begin{appendix})! 
+\begin{appendix}  
+  %list of figures (built automatically)
+  \listoffigures
+
+  %list of tables (built automatically)
+  \listoftables
+
+  %list of abbreviations
+  %please arrange in alphabetical order
+  \listofabbreviations
+  \abbreviation{addr.}{address}
+  \abbreviation{B2B}{Business to Business}
+
+
+  %tell LaTeX the name of bibliography and bibliographystyle. 
+  % .bib File must be nested in the root directory of this .tex file! 
+  %literatur.bib (please use jabref for edition .bib files)
+  \bibliography{test}
+  \bibliographystyle{wisenat}
+  \begin{appendices}
+  %self defined appendix. please delete if not needed. 
+  \section{The model of system development}
+  \newpage
+ % the model coninues...
+  \subsection{Submodel}
+
+  \end{appendices}
+  %the work closes with a declaration  of authorship
+  \declaration
+\end{appendix}
+
+\end{document}
